@@ -3,7 +3,7 @@ name: Build APK
 
 on:
   push:
-  workflow_dispatch:
+    workflow_dispatch:
 
 jobs:
   build:
